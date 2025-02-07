@@ -8,3 +8,11 @@
 ![1_lRCsrf5FvJH35yySp8mlxQ](https://github.com/user-attachments/assets/5985db5c-e2bd-48cf-ba56-831393f1926d)
 
 </details>
+<details>
+<summary>
+Условный (тернарный) оператор в JS?
+</summary>
+## Условный (тернарный) оператор JavaScript, который принимает три операнда: условие, за которым следует вопросительный знак (?), затем выражение для выполнения, если условие истинно, за которым следует двоеточие (:), и, наконец, выражение для выполнения, если условие ложно. 
+![scale_1200](https://github.com/user-attachments/assets/f53dc965-f7d8-4b1c-b84c-f386f1df8a1f)
+
+</details>
